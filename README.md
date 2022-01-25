@@ -1,4 +1,4 @@
-<img src="https://4.bp.blogspot.com/-9M7xkP_hR5k/XNfr-Ns4FYI/AAAAAAAAAj8/dhTvFKPf3HU-GEFNsdeO4NdX6oCm9riwgCLcBGAs/s1600/giphy.gif"  height="1024" width="440" alt="">
+<img src="https://4.bp.blogspot.com/-9M7xkP_hR5k/XNfr-Ns4FYI/AAAAAAAAAj8/dhTvFKPf3HU-GEFNsdeO4NdX6oCm9riwgCLcBGAs/s1600/giphy.gif"  height="440" width="1024" alt="">
 <h1 align="center">Hi 👋, I'm Aniket Gaurav</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
