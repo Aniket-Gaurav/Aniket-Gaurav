@@ -1,7 +1,7 @@
 <img src="https://4.bp.blogspot.com/-9M7xkP_hR5k/XNfr-Ns4FYI/AAAAAAAAAj8/dhTvFKPf3HU-GEFNsdeO4NdX6oCm9riwgCLcBGAs/s1600/giphy.gif"  height="440" width="1024" alt="">
 # 💫 About Me:
 
-🔭 I’m currently working on Java<br>👯 I’m looking to collaborate on Java Projects<br>🤝 I’m looking for help with Java,Database,NodeJs<br>🌱 I’m currently learning Java<br>💬 Ask me about Python,Web,Linux<br>📫 How to reach me aniketgaurav006@gmail.com<br>📄 Know about my experiences: shrtco.de/resume <br>⚡ Fun fact I am an ambivert person.
+🔭 I’m currently working on Java<br>👯 I’m looking to collaborate on Java Projects<br>🤝 I’m looking for help with Java,Database,NodeJs<br>🌱 I’m currently learning Java<br>💬 Ask me about Python,Web,Linux<br>📫 How to reach me aniketgaurav006@gmail.com<br>📄 Know about my experiences shrtco.de/resume<br>👨‍💻 All of my projects are available at https://aniketg-portfolio.netlify.app/<br>⚡ Fun fact I am an ambivert person.
 
 
 ## 🌐 Socials:
@@ -24,7 +24,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aniket-gaurav&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=aniket-gaurav&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=aniket-gaurav&icon=2&color=0)](https://visitcount.itsvg.in)
