@@ -5,8 +5,8 @@
 👯 I’m looking to collaborate on Java Projects<br>
 🤝 I’m looking for help with Java,Database,NodeJs<br>
 🌱 I’m currently learning Java<br>💬 Ask me about Python,Web,Linux<br>
-📫 How to reach me aniketgaurav006@gmail.com <br>
-📄 Know about my experiences shrtco.de/resume <br>
+📫 How to reach me aniketgaurav006@gmail.com<br>
+📄 Know about my experiences shrtco.de/resume<br>
 ⚡ Fun fact I am an ambivert person.
 
 
