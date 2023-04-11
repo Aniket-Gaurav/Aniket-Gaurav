@@ -2,9 +2,9 @@
 # 💫 About Me:
 
 🔭 I’m currently working on Java<br>
-👯 I’m looking to collaborate on Java Projects<br>
-🤝 I’m looking for help with Java,Database,NodeJs<br>
-🌱 I’m currently learning Java<br>💬 Ask me about Python,Web,Linux<br>
+👯 Looking to collaborate on Java Projects<br>
+🤝 Looking for help with Java,Database,NodeJs<br>
+🌱 Currently learning Java<br>💬 Ask me about Python,Web,Linux<br>
 📫 How to reach me aniketgaurav006@gmail.com<br>
 📄 Know about my experiences: https://shrtco.de/resume<br>
 ⚡ Fun fact I am an ambivert person.
