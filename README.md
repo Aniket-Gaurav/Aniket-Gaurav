@@ -1,10 +1,10 @@
 <img src="https://4.bp.blogspot.com/-9M7xkP_hR5k/XNfr-Ns4FYI/AAAAAAAAAj8/dhTvFKPf3HU-GEFNsdeO4NdX6oCm9riwgCLcBGAs/s1600/giphy.gif"  height="440" width="1024" alt="">
 # 💫 About Me:
 
-🔭 I’m currently working on Java<br>
-👯 Looking to collaborate on Java Projects<br>
-🤝 Looking for help with Java,Database,NodeJs<br>
-🌱 Currently learning Java<br>💬 Ask me about Python,Web,Linux<br>
+🔭 I’m currently working on DevOps<br>
+👯 Looking to collaborate on DevOps<br>
+🤝 Looking for help with AWS,Linux<br>
+🌱 Currently learning AWS<br>💬 Ask me about Python,Web,Linux<br>
 📫 How to reach me aniketgaurav006@gmail.com<br>
 📄 Know about my experiences: https://shrtco.de/resume<br>
 ⚡ Fun fact I am an ambivert person.
