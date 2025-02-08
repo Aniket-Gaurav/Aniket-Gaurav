@@ -6,7 +6,7 @@
 🤝 Looking for help with AWS,Linux<br>
 🌱 Currently learning AWS<br>💬 Ask me about Python,Web,Linux<br>
 📫 How to reach me aniketgaurav006@gmail.com<br>
-📄 Know about my experiences: (https://career.built.netlify.app)<br>
+📄 Know about my experiences: ([https://career.built.netlify.app](https://career-built.netlify.app/))<br>
 ⚡ Fun fact I am an ambivert person.
 
 
